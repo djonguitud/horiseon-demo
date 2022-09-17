@@ -1,3 +1,4 @@
+/* Diseño general o base */
 * {
 	box-sizing: border-box;
 	padding: 0;
@@ -16,6 +17,21 @@ body {
 	line-height: 1.2;
 }
 
+p {
+	font-size: 16px;
+	word-spacing: 2px;
+}
+
+a {
+	color: #ffffff;
+	text-decoration: none;
+}
+
+a:hover {
+	border-bottom: #ffffff solid 2px;
+}
+
+/*Encabezado con logo y barra de navegación  */
 header {
 	padding: 20px;
 
@@ -48,20 +64,7 @@ header nav ul li {
 	margin-left: 25px;
 }
 
-a {
-	color: #ffffff;
-	text-decoration: none;
-}
-
-a:hover {
-	border-bottom: #ffffff solid 2px;
-}
-
-p {
-	font-size: 16px;
-	word-spacing: 2px;
-}
-
+/* Sección principal que contiene solo imágen de presentación */
 main {
 	width: 100%;
 	margin-bottom: 25px;
@@ -71,31 +74,12 @@ main {
 	max-width: 100%;
 }
 
-.float-left {
-	float: left;
-	margin-right: 25px;
-}
-
-.float-right {
-	float: right;
-	margin-left: 25px;
-}
+/* Sección de sercicios */
 
 .content {
 	width: 75%;
 	display: inline-block;
 	margin-left: 20px;
-}
-
-aside {
-	margin-right: 20px;
-	padding: 20px;
-	clear: both;
-	float: right;
-	width: 20%;
-	height: 100%;
-	font-family: "Gill Sans", "Gill Sans MT", "Trebuchet MS", sans-serif;
-	background-color: #2589bd;
 }
 
 .benefit-cards {
@@ -131,6 +115,30 @@ aside {
 	margin-bottom: 20px;
 	font-size: 36px;
 }
+
+.float-left {
+	float: left;
+	margin-right: 25px;
+}
+
+.float-right {
+	float: right;
+	margin-left: 25px;
+}
+
+/* Sección aside que contiene atributos de la empresa */
+aside {
+	margin-right: 20px;
+	padding: 20px;
+	clear: both;
+	float: right;
+	width: 20%;
+	height: 100%;
+	font-family: "Gill Sans", "Gill Sans MT", "Trebuchet MS", sans-serif;
+	background-color: #2589bd;
+}
+
+/* Pie de página */
 
 footer {
 	padding: 30px;
