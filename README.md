@@ -17,4 +17,4 @@ que aumente su nivel de presencia en las búsquedas en la web.
 
 ## Demo
 
-<img src="./Develop/assets/images/demo-screenshot.png" alt="Captura de pantalla pagina web prototipo">
+<img src="./docs/assets/images/demo-screenshot.png" alt="Captura de pantalla pagina web prototipo">
