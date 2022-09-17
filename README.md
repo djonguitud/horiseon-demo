@@ -1,8 +1,8 @@
 # Página web prototipo | Horiseon
 
 Este prototipo de página web, tiene como objetivo que nuestros clientes implementen agencias de asesoría y realización de proyectos
-en la gestión de la reputación en línea, con la idea de que sus usuarios sientan satisfechos con la elección de un buen dominio de internet
-que aumente su nivel de presencia en las búsquedas en la web.
+en la gestión de reputación en línea, con la idea de que sus usuarios se sientan satisfechos con la elección de un buen dominio de internet
+que aumente el nivel de presencia en las búsquedas de Google.
 
 ## Puntos Clave
 
@@ -17,4 +17,6 @@ que aumente su nivel de presencia en las búsquedas en la web.
 
 ## Demo
 
-<img src="./docs/assets/images/demo-screenshot.png" alt="Captura de pantalla pagina web prototipo">
+- [Visita el prototipo de la página web aquí](https://djonguitud.github.io/horiseon-demo/)
+
+  <img src="./docs/assets/images/demo-screenshot.png" alt="Captura de pantalla pagina web prototipo">
