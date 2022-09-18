@@ -11,9 +11,10 @@ que aumente el nivel de presencia en las búsquedas de Google.
 - En general, se resuleve la semántica, estructura y descripción de los elementos del HTML5.
 - Se llegó a la conclusión de que es estrictamente necesario el uso de elementos semanticos y herramientas de accesibilidad en el código.
 
-## Creador
+## Creadores
 
 - [@djonguitud](https://github.com/djonguitud)
+- [@Xandromus](https://github.com/Xandromus)
 
 ## Demo
 
